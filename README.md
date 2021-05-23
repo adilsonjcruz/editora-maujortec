@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Aplicação React Criada usando o Livro "React Aprenda Praticando" do autor Mauricio "Maujor" Samy Silva
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
